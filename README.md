@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,I'm Fatma..
 
-<!--
-**fatmadelenn/fatmadelenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who I Am & What I Do
+👩 I'm Software Engineer currently in Istanbul, Turkey. 
+🌱 Learning new things everyday.
+💻 Love to listening to music and writing code.
+📫 How to reach me: https://www.linkedin.com/in/ftmdlnn/
 
-Here are some ideas to get you started:
+Let's get in touch 👇
+LinkedIn: https://www.linkedin.com/in/ftmdlnn/
+Twitter: https://twitter.com/ftmdlnn
+Medium: https://medium.com/@fatmadelenn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
