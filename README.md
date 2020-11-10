@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Fatma
+### Hi 👋,I'm Fatma
 <hr>
 
 Who I Am & What I Do
