@@ -17,8 +17,7 @@ Skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmadelenn&show_icons=true&langs_count=20&layout=compact)](https://github.com/fatmadelenn/github-readme-stats)
 
 ✍Check my recent post on Medium🌸
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/0" alt="Recent Article 0"> 
-  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/2" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fatmadelenn/3" alt="Recent Article 2"> 
